@@ -29,6 +29,8 @@ latest_posts:
 
 Hi to everyone who is visiting my homepage!
 
-Currently I am a third-year master's student from Tsinghua University, China. I major in Artificial Intelligence. I am looking for a Ph.D. posiiton from 2026 Fall, so don't hesitate contacting me if there is a match!
+Currently I am a third-year master's student from Tsinghua University, China. I major in Artificial Intelligence. Prior to that, I obtained my bachelor from Department EE, Tsinghua University. I also once exchanged at Tum, Germany.
+
+I am looking for a Ph.D. posiiton from 2026 Fall, so don't hesitate contacting me if there is a match!
 
 In general, my research interests lies in Reinforcement Learning, Generative Models (especially in vision and language), and their potential intersection with Robotics, but I am also open to a variety of interesting problems. My research goal is to advance the capabilities of AI agents to interact with the (physical) world, with a special emphasis on leveraging generative models. 
