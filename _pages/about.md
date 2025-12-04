@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi to everyone who is visiting my homepage!
+Hi to everyone who is visiting my homepage! I just developed this page recently, and I know there are many parts missing. But please keep an eye on it! I will update it as soon as possible!
 
 Currently I am a third-year master's student from Tsinghua University, China. I major in Artificial Intelligence. Prior to that, I obtained my bachelor from Department EE, Tsinghua University. I also once exchanged at TUM, Germany.
 
