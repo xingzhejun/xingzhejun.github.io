@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-join-the-neurips2025-in-san-diego-let-s-chat",
+            },},{id: "news-my-first-time-trying-to-build-a-homepage-many-details-are-missing-but-keep-an-eye-on-this-page-i-will-add-more-about-myself-as-soon-as-possible",
+          title: 'My first time trying to build a homepage! Many details are missing, but...',
+          description: "",
+          section: "News",},{id: "news-i-will-join-the-neurips2025-in-san-diego-let-s-chat",
           title: 'I will join The NeurIPS2025 in San Diego. Let’s chat!',
           description: "",
           section: "News",},{id: "projects-project-1",
