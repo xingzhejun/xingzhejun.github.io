@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Maybe my best ID photo :joy: </p>
+    <p>Maybe my best ID photo</p>
     <p>yifu599@gmail.com</p>
     <p>I will add my Linkedln link here soon!</p>
 
