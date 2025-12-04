@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Maybe my best ID photo :joy: </p>
+    <p>Maybe my best ID photo</p>
     <p>yifu599@gmail.com</p>
     <p>I will add my Linkedln link here soon!</p>
 
@@ -29,7 +29,7 @@ latest_posts:
 
 Hi to everyone who is visiting my homepage!
 
-Currently I am a third-year master's student from Tsinghua University, China. I major in Artificial Intelligence. Prior to that, I obtained my bachelor from Department EE, Tsinghua University. I also once exchanged at Tum, Germany.
+Currently I am a third-year master's student from Tsinghua University, China. I major in Artificial Intelligence. Prior to that, I obtained my bachelor from Department EE, Tsinghua University. I also once exchanged at TUM, Germany.
 
 I am looking for a Ph.D. posiiton from 2026 Fall, so don't hesitate contacting me if there is a match!
 
