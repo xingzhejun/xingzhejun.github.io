@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Maybe my best ID photo</p>
     <p>yifu599@gmail.com</p>
-    <p>I will add my Linkedln link here soon!</p>
+    <p>Linkedin: https://www.linkedin.com/in/yifu-luo-999273314/</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -33,4 +33,4 @@ Currently I am a third-year master's student from Tsinghua University, China. I 
 
 I am looking for a Ph.D. posiiton from 2026 Fall, so don't hesitate contacting me if there is a match!
 
-In general, my research interests lies in Reinforcement Learning, Generative Models (especially in vision and language), and their potential intersection with Robotics, but I am also open to a variety of interesting problems. My research goal is to advance the capabilities of AI agents to interact with the (physical) world, with a special emphasis on leveraging generative models. 
+In general, my research interests lie in Reinforcement Learning, Generative Models (especially in vision and language), and their potential intersection with Robotics, but I am also open to a variety of interesting problems. My research goal is to advance the capabilities of AI agents to interact with the (physical) world, with a special emphasis on leveraging generative models. 
