@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>.Yifu599@gmail.com.
 
 profile:
   align: right
