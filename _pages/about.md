@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Maybe my best ID photo</p>
+    <p>Maybe my best ID photo :joy: </p>
     <p>yifu599@gmail.com</p>
-    <p>Linkedin: https://www.linkedin.com/in/yifu-luo-999273314/</p>
+    <p>I will add my Linkedln link here soon!</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi to everyone who is visiting my homepage! I just developed this page recently, and I know there are many parts missing. But please keep an eye on it! I will update it as soon as possible!
+Hi to everyone who is visiting my homepage! I just developed this page and I know many parts are missing. However, please keep an eye on it and I will update it as soon as possible!
 
 Currently I am a third-year master's student from Tsinghua University, China. I major in Artificial Intelligence. Prior to that, I obtained my bachelor from Department EE, Tsinghua University. I also once exchanged at TUM, Germany.
 
