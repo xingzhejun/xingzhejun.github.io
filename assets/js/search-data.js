@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-will-join-the-neurips2025-in-san-diego-let-s-chat",
+            },},{id: "news-i-will-join-the-neurips2025-in-san-diego-let-s-chat",
           title: 'I will join The NeurIPS2025 in San Diego. Let’s chat!',
           description: "",
           section: "News",},{id: "projects-project-1",
