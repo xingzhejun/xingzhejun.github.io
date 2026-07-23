@@ -55,19 +55,19 @@ education:
 
 experience:
 - name: Kling AI, Kuaishou Technology
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Tsinghua.jpg
   position: >-
     Research Intern <br/>
     I enhanced flow-matching text-to-image models through RL post-training. I shifted GRPO from the step-level to the chunk-level yielding superior image generation performance (ICML 2026). I also developed reward models using Qwen-VL and InternVL for image generation foundation models, including the data construction and model training.
   date: Jul. 2025 - Oct. 2025
 - name: ByteDance Seed
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Tsinghua.jpg
   position: >-
     Research Intern <br/>
     I developed RL and imitation learning methods for robotic decision-making from video generation. I also developed reward models using Qwen-VL for robotics spatial reasoning and decision-making.
   date: March. 2025 - Jul. 2025
 - name: Meituan Technology
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Tsinghua.jpg
   position: >-  
     Research Intern <br/>
     I worked on the decision making for autonomous driving .
