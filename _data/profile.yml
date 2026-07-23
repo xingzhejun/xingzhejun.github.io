@@ -54,22 +54,22 @@ education:
   date: 2018 - 2022
 
 experience:
+- name: Max Plank Institute for Intelligent Systems
+  # logo: /assets/images/badges/Tsinghua.jpg
+  position: Research Intern.
+  date: Jan. 2026 - Present
 - name: Kling AI, Kuaishou Technology
   # logo: /assets/images/badges/Tsinghua.jpg
-  position: Research Intern. I worked on the RL post-training  of flow-matching text-to-image models (ICML 2026 + Foundation Models).
+  position: Research Intern.
   date: Jul. 2025 - Oct. 2025
-# - name: ByteDance Seed
-#   # logo: /assets/images/badges/PKU_red.png
-#   position: >-
-#     Research Intern <br/>
-#     I developed RL and imitation learning methods for robotic decision-making from video generation. I also developed reward models using Qwen-VL for robotics spatial reasoning and decision-making.
-#   date: March. 2025 - Jul. 2025
-# - name: Meituan Technology
-#   # logo: /assets/images/badges/PKU_red.png
-#   position: >-  
-#     Research Intern <br/>
-#     I worked on the decision making for autonomous driving.
-#   date: June. 2021 - Aug. 2021
+- name: ByteDance Seed
+  # logo: /assets/images/badges/PKU_red.png
+  position: Research Intern.
+  date: March. 2025 - Jul. 2025
+- name: Meituan Technology
+  # logo: /assets/images/badges/PKU_red.png
+  position: Research Intern.
+  date: June. 2021 - Aug. 2021
 
 awards:
 - name: First Class Outstanding Student, Tsinghua University
