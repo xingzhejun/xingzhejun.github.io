@@ -23,33 +23,35 @@ github: xingzhejun
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a master student at Tsinghua University, majoring in Artificial Intelligence.
+    I am a master student at Tsinghua University, majoring in Artificial Intelligence. Prior to that, I received my bachelor degree also from Tsinghua University, in the department of Electronic Engineering.
   </p>
   <p>
-    My research interests focus on the post-training paradigm (such as RL and OPD), for both LLMs and diffusion models.
+    My research interests focus on the post-training paradigm (mainly as RL and OPD), for both LLMs and diffusion models. I have several top-tier publications as well as frontier lab internship experiences in this area.
   </p>
   <p>
     I am always actively looking for research internship opportunities. Feel free to reach out to me if there is a match!
   </p>
   <p>
-    I am also opened to collaboration. If you are interested, please drop me an email. I check it every day!
+    I am also opened to collaboration, especially (1) if you can give me SSH access to a large GPU cluster, or (2) if you are seeking for some hands-on guidance. If you are interested, please drop me an email. I check it every day!
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Photo when I was travelling in Mallorca during my 24s. A memorable time without any worries.
 
 education:
 - name: Tsinghua University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/Tsinghua.jpg
   position: >- 
-    Artificial Intelligence <br/>
-    Master Student
-  date: Sep. 2023 - present
+    Master <br/>
+    Artificial Intelligence 
+  date: 2023 - 2026
 - name: Tsinghua University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.E. in Electronic Information Science and Technology
-  date: Sep. 2018 - Jul. 2022
+  logo: /assets/images/badges/Tsinghua.jpg
+  position: >- 
+    Bachelor <br/>
+    Electronic Engineering
+  date: 2018 - 2022
 
 # experience:
 # - name: Peking University
