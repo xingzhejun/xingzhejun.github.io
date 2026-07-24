@@ -54,15 +54,15 @@ education:
   date: 2018 - 2022
 
 experience:
-- name: Max Plank Institute for Intelligent Systems
-  # logo: /assets/images/badges/Tsinghua.jpg
-  position: Research Intern.
-  date: Jan. 2026 - Present
+# - name: Max Plank Institute for Intelligent Systems
+#   # logo: /assets/images/badges/Tsinghua.jpg
+#   position: Research Intern.
+#   date: Jan. 2026 - Present
 - name: Kling AI, Kuaishou Technology
   # logo: /assets/images/badges/Tsinghua.jpg
   position: Research Intern.
   date: Jul. 2025 - Oct. 2025
-- name: ByteDance Seed
+- name: Seed, Bytedance
   # logo: /assets/images/badges/PKU_red.png
   position: Research Intern.
   date: March. 2025 - Jul. 2025
