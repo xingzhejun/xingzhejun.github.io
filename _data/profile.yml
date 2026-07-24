@@ -58,17 +58,17 @@ experience:
 #   # logo: /assets/images/badges/Tsinghua.jpg
 #   position: Research Intern.
 #   date: Jan. 2026 - Present
-- name: Kling AI, Kuaishou Technology
+- name: Kling AI
   # logo: /assets/images/badges/Tsinghua.jpg
-  position: Research Intern.
+  position: Research Intern
   date: Jul. 2025 - Oct. 2025
-- name: Seed, Bytedance
+- name: Seed
   # logo: /assets/images/badges/PKU_red.png
-  position: Research Intern.
+  position: Research Intern
   date: March. 2025 - Jul. 2025
-- name: Meituan Technology
+- name: Meituan
   # logo: /assets/images/badges/PKU_red.png
-  position: Research Intern.
+  position: Research Intern
   date: June. 2021 - Aug. 2021
 
 awards:
