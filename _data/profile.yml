@@ -63,7 +63,9 @@ experience:
 - name: Max Planck Institute for Intelligent Systems
   url: https://is.mpg.de/en
   # logo: /assets/images/badges/MPIIS.jpg
-  position: Research Intern
+  position: >-
+    Research Intern <br/>
+    OPD for dLLMs
   date: Jan. 2026 - May. 2026
 - name: Kling AI
   url: https://kling.ai/
