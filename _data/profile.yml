@@ -41,19 +41,19 @@ portrait_caption: >-
 
 education:
 - name: Technical University of Munich
-  # logo: /assets/images/badges/TUM.png
+  logo: /assets/images/badges/TUM.png
   position: >- 
     Ph.D. <br/>
     Computer Science
   date: 2026 - 2029
 - name: Tsinghua University
-  # logo: /assets/images/badges/Tsinghua.jpg
+  logo: /assets/images/badges/Tsinghua.jpg
   position: >- 
     Master <br/>
     Artificial Intelligence 
   date: 2023 - 2026
 - name: Tsinghua University
-  # logo: /assets/images/badges/Tsinghua.jpg
+  logo: /assets/images/badges/Tsinghua.jpg
   position: >- 
     Bachelor <br/>
     Electronic Engineering
