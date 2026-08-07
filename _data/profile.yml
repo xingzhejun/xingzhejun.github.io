@@ -64,7 +64,7 @@ education:
 experience:
 - name: Max Planck Institute for Intelligent Systems
   url: https://is.mpg.de/en
-  logo: /assets/images/badges/MPIIS.jpg
+  # logo: /assets/images/badges/MPIIS.jpg
   position: >-
     Research Intern <br/>
     Supervised by <a href="https://shiweiliuiiiiiii.github.io/" target="_blank">PI. Dr. Shiwei Liu</a> <br/>
@@ -72,7 +72,7 @@ experience:
   date: Jan. 2026 - May. 2026
 - name: Kling AI
   url: https://kling.ai/
-  # logo: /assets/images/badges/KlingAI.jpg
+  logo: /assets/images/badges/KlingAI.jpg
   position: >-
     Research Intern <br/>
     Supervised by <a href="https://yu-changqian.github.io/" target="_blank">Dr. Changqian Yu</a> <br/>
@@ -80,7 +80,7 @@ experience:
   date: Jul. 2025 - Oct. 2025
 - name: Seed, ByteDance
   url: https://seed.bytedance.com/en/
-  # logo: /assets/images/badges/Bytedance.png
+  logo: /assets/images/badges/Bytedance.png
   position: >-
     Research Intern <br/>
     Supervised by <a href="https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl=en&oi=ao" target="_blank">Dr. Yansheng Wang</a> <br/>
@@ -88,7 +88,7 @@ experience:
   date: March. 2025 - Jul. 2025
 - name: Meituan Technology
   url: https://www.meituan.com/en-US/about-us
-  # logo: /assets/images/badges/Meituan.png
+  logo: /assets/images/badges/Meituan.png
   position: >-
     Research Intern <br/>
     Worked on autonomous driving
