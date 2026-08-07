@@ -64,7 +64,7 @@ education:
 experience:
 - name: Max Planck Institute for Intelligent Systems
   url: https://is.mpg.de/en
-  # logo: /assets/images/badges/MPIIS.jpg
+  logo: /assets/images/badges/MPIIS.jpg
   position: >-
     Research Intern <br/>
     Supervised by <a href="https://shiweiliuiiiiiii.github.io/" target="_blank">PI. Dr. Shiwei Liu</a> <br/>
