@@ -23,7 +23,7 @@ github: xingzhejun
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an incoming Ph.D. student at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, majoring in computer science and supervised by <a href="https://www.gov.sot.tum.de/rds/prof-dr-gjergji-kasneci/" target="_blank">Prof. Dr. Gjergji Kasneci</a>. Prior to that,I recieved my master degree from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, majoring in Artificial Intelligence. I received my bachelor degree also from Tsinghua University, in the department of <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Electronic Engineering</a>.
+    I am a Ph.D. student at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, majoring in computer science and supervised by <a href="https://www.gov.sot.tum.de/rds/prof-dr-gjergji-kasneci/" target="_blank">Prof. Dr. Gjergji Kasneci</a>. Prior to that,I recieved my master degree from <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, majoring in Artificial Intelligence. I received my bachelor degree also from Tsinghua University, in the department of <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Electronic Engineering</a>.
   </p>
   <p>
     My research interests focus on the post-training paradigm (mainly as RL and OPD), for both LLMs and diffusion models. I have several top-tier publications as well as frontier lab internship experiences in this area.
