@@ -13,6 +13,13 @@
                         <div class="text-profile-bio mt-0" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
+                        <a class="d-block mt-3 mb-3" href="{{ 'assets/images/photos/Framework.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="View research framework at full size">
+                            <img src="{{ 'assets/images/photos/Framework.png' | relative_url }}"
+                                 alt="Research framework: post-training for generative models, including reinforcement learning and on-policy distillation for both LLMs and diffusion models."
+                                 class="img-fluid w-100"
+                                 width="1523" height="1078"
+                                 style="height: auto;">
+                        </a>
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}
